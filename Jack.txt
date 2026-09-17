@@ -2,4 +2,4 @@ Summary of Actions:
 1) Created a .txt file
 2) Pull origin
 3) Commit .txt file
-4) Push to main
+4) Push to main.
